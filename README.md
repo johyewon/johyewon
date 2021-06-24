@@ -7,6 +7,7 @@
 - 📫 hanix_x@naver.com
 - :computer: https://hanix-x.tistory.com/
 - 💻 https://johyewon.github.io/
+- 📄 https://www.notion.so/Hello-Hani-bc73f5169f1a48bf9df08ddbd53ae286
 
 <!---
 johyewon/johyewon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
