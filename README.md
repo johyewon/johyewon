@@ -1,12 +1,6 @@
 - 👋 <b>안녕하세요! 저는 안드로이드 개발자 조혜원이라고 합니다! </b>
 - <b>Hi there! I'm hani!</b>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johyewon)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johyewon)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 - 📫 hanix_x@naver.com
 - :computer: https://hanix-x.tistory.com/
 - 💻 https://johyewon.github.io/
